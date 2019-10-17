@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package c;
+
+enum Gender {
+    Null = 0;
+    Unknown = 1;
+    Male = 2;
+    Famale = 3;
+}
