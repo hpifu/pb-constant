@@ -1,3 +1,4 @@
+all: go py
 
 go: const.pb.go
 
